@@ -1,2 +1,7 @@
 # hello-world
-This is my 'Hello World' repository
+
+Hi humans! This is my 'Hello World' repository
+Aaa
+123
+Çşğiı
+
